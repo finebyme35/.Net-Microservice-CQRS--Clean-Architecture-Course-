@@ -1,0 +1,17 @@
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Query/Post.Query.Domain/bin/Debug/net7.0/Post.Query.Domain.deps.json
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Query/Post.Query.Domain/bin/Debug/net7.0/Post.Query.Domain.dll
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Query/Post.Query.Domain/bin/Debug/net7.0/Post.Query.Domain.pdb
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Query/Post.Query.Domain/bin/Debug/net7.0/CQRS.Core.dll
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Query/Post.Query.Domain/bin/Debug/net7.0/Post.Common.dll
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Query/Post.Query.Domain/bin/Debug/net7.0/CQRS.Core.pdb
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Query/Post.Query.Domain/bin/Debug/net7.0/Post.Common.pdb
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net7.0/Post.Query.Domain.csproj.AssemblyReference.cache
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net7.0/Post.Query.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net7.0/Post.Query.Domain.AssemblyInfoInputs.cache
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net7.0/Post.Query.Domain.AssemblyInfo.cs
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net7.0/Post.Query.Domain.csproj.CoreCompileInputs.cache
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net7.0/Post.Query.Domain.csproj.CopyComplete
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net7.0/Post.Query.Domain.dll
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net7.0/refint/Post.Query.Domain.dll
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net7.0/Post.Query.Domain.pdb
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Query/Post.Query.Domain/obj/Debug/net7.0/ref/Post.Query.Domain.dll

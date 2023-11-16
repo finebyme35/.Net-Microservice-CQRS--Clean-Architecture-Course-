@@ -1,0 +1,17 @@
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net7.0/Post.Cmd.Domain.deps.json
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net7.0/Post.Cmd.Domain.dll
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net7.0/Post.Cmd.Domain.pdb
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net7.0/CQRS.Core.dll
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net7.0/Post.Common.dll
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net7.0/CQRS.Core.pdb
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/Debug/net7.0/Post.Common.pdb
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net7.0/Post.Cmd.Domain.csproj.AssemblyReference.cache
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net7.0/Post.Cmd.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net7.0/Post.Cmd.Domain.AssemblyInfoInputs.cache
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net7.0/Post.Cmd.Domain.AssemblyInfo.cs
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net7.0/Post.Cmd.Domain.csproj.CoreCompileInputs.cache
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net7.0/Post.Cmd.Domain.csproj.CopyComplete
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net7.0/Post.Cmd.Domain.dll
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net7.0/refint/Post.Cmd.Domain.dll
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net7.0/Post.Cmd.Domain.pdb
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/Debug/net7.0/ref/Post.Cmd.Domain.dll

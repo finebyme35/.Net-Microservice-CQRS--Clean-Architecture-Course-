@@ -1,0 +1,15 @@
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Common/bin/Debug/net7.0/Post.Common.deps.json
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Common/bin/Debug/net7.0/Post.Common.dll
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Common/bin/Debug/net7.0/Post.Common.pdb
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Common/bin/Debug/net7.0/CQRS.Core.dll
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Common/bin/Debug/net7.0/CQRS.Core.pdb
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Common/obj/Debug/net7.0/Post.Common.csproj.AssemblyReference.cache
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Common/obj/Debug/net7.0/Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Common/obj/Debug/net7.0/Post.Common.AssemblyInfoInputs.cache
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Common/obj/Debug/net7.0/Post.Common.AssemblyInfo.cs
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Common/obj/Debug/net7.0/Post.Common.csproj.CoreCompileInputs.cache
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Common/obj/Debug/net7.0/Post.Common.csproj.CopyComplete
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Common/obj/Debug/net7.0/Post.Common.dll
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Common/obj/Debug/net7.0/refint/Post.Common.dll
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Common/obj/Debug/net7.0/Post.Common.pdb
+/Users/oguzcanakyol/Desktop/Course/SM-Post/Post.Common/obj/Debug/net7.0/ref/Post.Common.dll
