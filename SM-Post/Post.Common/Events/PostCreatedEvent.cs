@@ -4,7 +4,7 @@ namespace Post.Common.Events
 {
     public class PostCreatedEvent: BaseEvent
     {
-        protected PostCreatedEvent() : base(nameof(PostCreatedEvent)) 
+        public PostCreatedEvent() : base(nameof(PostCreatedEvent)) 
         {
             
         }
